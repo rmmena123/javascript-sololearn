@@ -1,0 +1,1 @@
+document.body.innerHTML = "Some text"; // Change content -> property
